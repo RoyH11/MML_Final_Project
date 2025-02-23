@@ -1,7 +1,7 @@
 # MML_Final_Project
 Dimension Reduction SVD on MNIST Dataset
 
-Final project for [MATH:4840 Mathematics for Machine Learning](https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.courseSubject=MATH&q.courseNumber=4840&showResults=1)
+Final project for [MATH:4840 Mathematics of Machine Learning](https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.courseSubject=MATH&q.courseNumber=4840&showResults=1)
 
 - For Code [click here](https://github.com/RoyH11/MML_Final_Project/blob/main/dimension_reduction.ipynb)
 

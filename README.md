@@ -3,11 +3,11 @@ Dimension Reduction SVD on MNIST Dataset
 
 Final project for [MATH:4840 Mathematics for Machine Learning](https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.courseSubject=MATH&q.courseNumber=4840&showResults=1)
 
-- For Code [click here]()
+- For Code [click here](https://github.com/RoyH11/MML_Final_Project/blob/main/dimension_reduction.ipynb)
 
-- For Final Report [click here]()
+- For Final Report [click here](https://github.com/RoyH11/MML_Final_Project/blob/main/Final_Report_Group_1.pdf)
 
-- For Complete Presentation [click here]()
+- For Complete Presentation [click here](https://github.com/RoyH11/MML_Final_Project/blob/main/Dimensionality_Reduction_SVD_Presentation.pdf)
 
 ## Some slected slices to demostrate what we did: 
 ![image](https://github.com/user-attachments/assets/2ddce013-6bed-4697-9a19-c7b66195f21d)
